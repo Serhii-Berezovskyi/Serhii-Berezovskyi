@@ -7,4 +7,4 @@ Also developing my written skills in making high-quality test documentation.
 
 My certificate of successful completion of the [QA Manual Course](https://drive.google.com/file/d/1gUNfpk5laJnrFFwaT59C9Z2oG1-SAubY/view?usp=sharing).
 
-Here you can find examples of my work.
+Detailed information with examples of my work can be found here.
