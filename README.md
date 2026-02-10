@@ -1,5 +1,10 @@
 ## Hi there 👋
+I'm Serhii, a Manual QA Engineer based in Ukraine.
 
+For now, I'm learning new technologies and tools, such as Jira, Trello, TestRail, Postman, MySQL, Git, and others, which will help me develop and grow in the QA field.
+Also developing my written skills in making high-quality test documentation. 
+
+Here you can find examples of my work.
 <!--
 **Serhii-Berezovskyi/Serhii-Berezovskyi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
