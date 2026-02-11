@@ -7,4 +7,4 @@ Also developing my written skills in making high-quality test documentation.
 
 My certificate of successful completion of the [QA Manual Course](https://github.com/Serhii-Berezovskyi/QA-Study/blob/main/Certificates/Serhii%20Berezovskyi.pdf).
 
-Detailed information with examples of my work can be found here.
+Detailed information with examples of my work can be found [here](https://github.com/Serhii-Berezovskyi/QA-Study).
