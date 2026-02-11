@@ -1,4 +1,3 @@
-md
 ## Hi there 👋
 I'm Serhii, a Manual QA Engineer based in Ukraine.
 
